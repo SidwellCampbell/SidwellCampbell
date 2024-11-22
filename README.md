@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tevin Campbell</h1>
 <h3 align="center">A fullstack software engineer out of NYC</h3>
 
-- 📚 **I'm currently a grad student at Goorgia Tech**
+- 📚 **I'm currently a grad student at Georgia Tech**
 
 - 📫 **Tevinc.dev@gmail.com**
 
