@@ -1,6 +1,6 @@
  👋 Hi, I'm Tevin 
  
- 📚 I'm currently a grad student at Georgia Tech**
+ 📚 I'm currently a grad student at Georgia Tech
 
  🎨 I’m looking to collaborate on full-stack and data visualization projects
 
