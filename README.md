@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tevin Campbell</h1>
 <h3 align="center">A fullstack software engineer out of NYC</h3>
 
-- 📚 I'm currently a grad student at Georgia Tech
+ 📚 I'm currently a grad student at Georgia Tech**
 
-- 👯 I’m looking to collaborate on full stack and data visualization projects
+ 👯 I’m looking to collaborate on full stack and data visualization projects
 
-- 🏈 I'm a huge NY Jets fan
+ 🏈 I'm a huge NY Jets fan
 
-- 📫 Tevinc.dev@gmail.com
+ 📫 Tevinc.dev@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
