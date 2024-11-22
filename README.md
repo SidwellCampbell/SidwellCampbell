@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tevin Campbell</h1>
-<h3 align="center">A fullstack software engineer out of NYC</h3>
-
+ 👋 Hi, I'm Tevin 
+ 
  📚 I'm currently a grad student at Georgia Tech**
 
- 👯 I’m looking to collaborate on full stack and data visualization projects
+ 🎨 I’m looking to collaborate on full-stack and data visualization projects
 
  🏈 I'm a huge NY Jets fan
 
