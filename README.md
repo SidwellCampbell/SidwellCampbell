@@ -3,11 +3,11 @@
 
 - 📚 **I'm currently a grad student at Georgia Tech**
 
-- 📫 **Tevinc.dev@gmail.com**
-
 - 👯 **I’m looking to collaborate on full stack and data visualization projects**
 
 - 🏈 **I'm a huge NY Jets fan**
+
+- - 📫 **Tevinc.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
